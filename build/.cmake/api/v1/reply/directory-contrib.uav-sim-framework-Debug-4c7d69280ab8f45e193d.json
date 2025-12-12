@@ -1,0 +1,73 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"build_lib"
+		],
+		"files" : 
+		[
+			"build-support/custom-modules/ns3-module-macros.cmake",
+			"contrib/uav-sim-framework/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 232,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libns3.43-uav-sim-framework-debug.so"
+			],
+			"targetId" : "uav-sim-framework::@642b30d406572c79f7d4",
+			"targetIndex" : 287,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/ns3",
+			"paths" : 
+			[
+				"contrib/uav-sim-framework/model/uav-sim-types.h",
+				"contrib/uav-sim-framework/model/simulation-plugin.h",
+				"contrib/uav-sim-framework/model/simulation-context.h",
+				"contrib/uav-sim-framework/model/plugin-registry.h",
+				"contrib/uav-sim-framework/model/data-exporter.h",
+				"contrib/uav-sim-framework/plugins/mobility/mobility-plugin.h",
+				"contrib/uav-sim-framework/plugins/channel/channel-plugin.h",
+				"contrib/uav-sim-framework/plugins/traffic/traffic-plugin.h",
+				"contrib/uav-sim-framework/plugins/collector/collector-plugin.h",
+				"contrib/uav-sim-framework/helper/uav-sim-helper.h",
+				"build/include/ns3/uav-sim-framework-module.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "contrib/uav-sim-framework",
+		"source" : "contrib/uav-sim-framework"
+	}
+}

@@ -1,0 +1,19 @@
+0-5s: Node0-Node11, Node2-Node4, Node2-Node6, Node2-Node10, Node5-Node16, Node6-Node13, Node6-Node17, Node7-Node11
+5-10s: Node0-Node2, Node1-Node2, Node2-Node16, Node3-Node10, Node4-Node14, Node6-Node14, Node13-Node18, Node16-Node18
+10-15s: Node0-Node4, Node1-Node14, Node7-Node19, Node10-Node18, Node11-Node12, Node15-Node19
+15-20s: Node0-Node4, Node2-Node3, Node3-Node4, Node3-Node5, Node3-Node14, Node4-Node7, Node9-Node10, Node9-Node15, Node9-Node17, Node12-Node16, Node14-Node16, Node17-Node18
+20-25s: Node1-Node7, Node2-Node4, Node2-Node7, Node2-Node10, Node3-Node14, Node3-Node18, Node4-Node11, Node7-Node12, Node7-Node19, Node8-Node19, Node9-Node17, Node11-Node19
+25-30s: Node0-Node2, Node1-Node12, Node1-Node18, Node2-Node15, Node2-Node18, Node3-Node6, Node5-Node16, Node7-Node15, Node8-Node9, Node9-Node13, Node17-Node19
+30-35s: Node0-Node19, Node1-Node12, Node1-Node15, Node2-Node3, Node3-Node12, Node3-Node17, Node5-Node14, Node10-Node11, Node10-Node16, Node12-Node19, Node17-Node18
+35-40s: Node4-Node12, Node6-Node14, Node11-Node18
+40-45s: Node0-Node3, Node0-Node7, Node1-Node12, Node1-Node13, Node5-Node6, Node8-Node15, Node9-Node19, Node11-Node19, Node17-Node18
+45-50s: Node1-Node17, Node2-Node12, Node3-Node5, Node5-Node10, Node8-Node11, Node9-Node16, Node9-Node19, Node12-Node13
+50-55s: Node0-Node14, Node0-Node18, Node1-Node6, Node1-Node17, Node2-Node16, Node4-Node14, Node6-Node10, Node8-Node9, Node12-Node15
+55-60s: Node1-Node2, Node4-Node11, Node5-Node19, Node8-Node18, Node9-Node12, Node9-Node17, Node11-Node12, Node12-Node16
+60-65s: Node0-Node13, Node2-Node13, Node7-Node10, Node7-Node18, Node9-Node10, Node9-Node13, Node11-Node19
+65-70s: Node7-Node14, Node10-Node15, Node13-Node14, Node17-Node19, Node18-Node19
+70-75s: Node0-Node9, Node0-Node15, Node2-Node3, Node2-Node16, Node3-Node6, Node4-Node11, Node5-Node12, Node6-Node9, Node8-Node18, Node13-Node15, Node14-Node16
+75-80s: Node0-Node10, Node0-Node13, Node1-Node4, Node1-Node18, Node2-Node11, Node5-Node15, Node5-Node16, Node7-Node9, Node7-Node19, Node14-Node17, Node16-Node19
+80-85s: Node1-Node3, Node1-Node5, Node4-Node7, Node7-Node13, Node10-Node17, Node11-Node12, Node11-Node17, Node11-Node19, Node13-Node14, Node14-Node16
+85-90s: Node0-Node4, Node5-Node19, Node6-Node15, Node7-Node15, Node12-Node13, Node16-Node17
+90-95s: Node2-Node12, Node4-Node10, Node5-Node17, Node7-Node10, Node10-Node11, Node12-Node17, Node17-Node19

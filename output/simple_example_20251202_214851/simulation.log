@@ -1,0 +1,22 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Invalid command-line argument: --duration=100
+ [Program Options] [General Arguments]
+
+Program Options:
+    --trajectory:  轨迹数据文件路径 [data_rtk/mobility_trace.txt]
+    --outputDir:   输出结果文件夹路径 [benchmark]
+    --formation:   飞行形态 (cross/line/triangle/v_formation) [cross]
+    --difficulty:  难度级别 (easy/moderate/hard) [easy]
+    --maxTime:     最大仿真时长（秒），0表示使用完整轨迹 [0]
+
+General Arguments:
+    --PrintGlobals:              Print the list of globals.
+    --PrintGroups:               Print the list of groups.
+    --PrintGroup=[group]:        Print all TypeIds of group.
+    --PrintTypeIds:              Print all TypeIds.
+    --PrintAttributes=[typeid]:  Print all attributes of typeid.
+    --PrintVersion:              Print the ns-3 version.
+    --PrintHelp:                 Print this help message.
+
+Command 'build/scratch/ns3.43-rtk_benchmark-debug --trajectory=data_rtk/mobility_trace_cross.txt --outputDir=output/simple_example_20251202_214851 --formation=cross --difficulty=easy --duration=100' returned non-zero exit status 1.

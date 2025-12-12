@@ -1,0 +1,31 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+======================================
+RTK Benchmark 仿真
+飞行形态: cross
+难度级别: Easy
+======================================
+成功加载轨迹数据:
+  节点数量: 15
+  仿真时长: 2903.58
+  数据点数: 44025
+限制仿真时长: 100 秒 (原轨迹: 2903.58 秒)
+设置基于RTK数据的移动模型（带误差模拟）...
+  节点 0: 2739 waypoints
+  节点 1: 2684 waypoints
+  节点 2: 2681 waypoints
+  节点 3: 2609 waypoints
+  节点 4: 2831 waypoints
+  节点 5: 2816 waypoints
+  节点 6: 2874 waypoints
+  节点 7: 2865 waypoints
+  节点 8: 3033 waypoints
+  节点 9: 2943 waypoints
+  节点 10: 3125 waypoints
+  节点 11: 3169 waypoints
+  节点 12: 3499 waypoints
+  节点 13: 3352 waypoints
+  节点 14: 2775 waypoints
+设置智能通信调度 (Easy 模式)...
+开始仿真（预计耗时：1 分钟）...
+进度: 10.0% (10/100s)   Process was interrupted by the user
