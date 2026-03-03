@@ -1,1 +1,1 @@
-#include "/mnt/e/Simulator/ns3/workspace/ns-allinone-3.43/ns-3.43/src/spectrum/model/friis-spectrum-propagation-loss.h"
+#include "/home/polym/uavSwarmSim/src/spectrum/model/friis-spectrum-propagation-loss.h"
